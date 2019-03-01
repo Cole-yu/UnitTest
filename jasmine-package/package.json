@@ -1,0 +1,22 @@
+{
+  "name": "jasmine-package",
+  "version": "1.0.0",
+  "description": "jasmine-unit-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start",
+    "start": "webpack"
+  },
+  "keywords": [
+    "jasmine"
+  ],
+  "author": "1032577646@qq.com",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-core": "^3.3.0",
+    "karma": "^4.0.1",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-coverage": "^1.1.2",
+    "karma-jasmine": "^2.0.1"
+  }
+}
